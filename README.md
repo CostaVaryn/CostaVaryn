@@ -3,12 +3,10 @@
     <img src="https://i.ibb.co/k8TJ6fF/well1.gif" align="center" width="350"/> 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   </h1>
-  
 </span>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=CostaVaryn&style=flat-square&color=blueviolet" alt=""></p>
 
-
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/942fdf48222763.5891fd792ead0.gif" align="right" width="450" height="300"/>
-
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/942fdf48222763.5891fd792ead0.gif" align="right" width="450" height="300"/>
 
 ### :man_technologist: Languages and Tools :
 
