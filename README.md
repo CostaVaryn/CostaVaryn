@@ -6,9 +6,9 @@
   
 </span>
 
-<div>
+
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/942fdf48222763.5891fd792ead0.gif" align="right" width="500" height="380"/>
-</div>
+
 
 ### :man_technologist: Languages and Tools :
 
