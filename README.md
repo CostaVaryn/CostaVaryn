@@ -31,5 +31,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CostaVaryn&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CostaVaryn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://komarev.com/ghpvc/?username=CostaVaryn&style=flat-square&color=blue" align="left" alt=""/>
