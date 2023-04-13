@@ -7,7 +7,7 @@
 </span>
 
 
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/942fdf48222763.5891fd792ead0.gif" align="right" width="500" height="380"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/942fdf48222763.5891fd792ead0.gif" align="right" width="450" height="300"/>
 
 
 ### :man_technologist: Languages and Tools :
