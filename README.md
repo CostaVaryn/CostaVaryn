@@ -6,7 +6,7 @@
 </span>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=CostaVaryn&style=flat-square&color=blueviolet" alt=""></p>
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/942fdf48222763.5891fd792ead0.gif" align="right" width="400" height="280"/>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/942fdf48222763.5891fd792ead0.gif" align="right" width="220" height="180"/>
 
 ### :man_technologist: Languages and Tools :
 
@@ -28,8 +28,11 @@
 ---
 
 ### 👨‍💼📊📈 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CostaVaryn&theme=buefy)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CostaVaryn&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <a> <img width=50% title="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=CostaVaryn&theme=buefy"></a>
+    <a> <img width=36% title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CostaVaryn&layout=compact&theme=buefy"></a>&nbsp;
+</p>
+
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=964FF7&center=true&vCenter=true&width=435&lines=See+you+again)](https://git.io/typing-svg)
