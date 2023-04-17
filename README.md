@@ -6,7 +6,7 @@
 </span>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=CostaVaryn&style=flat-square&color=blueviolet" alt=""></p>
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/942fdf48222763.5891fd792ead0.gif" align="right" width="450" height="300"/>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/942fdf48222763.5891fd792ead0.gif" align="right" width="400" height="280"/>
 
 ### :man_technologist: Languages and Tools :
 
