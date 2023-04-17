@@ -35,4 +35,7 @@
 </p>
 
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=964FF7&center=true&vCenter=true&width=435&lines=See+you+again)](https://git.io/typing-svg)
+
+<p align="center">
+    <img title="See you again" src="https://readme-typing-svg.herokuapp.com/?color=ba79ff&font=montserrat-medium&size=20&center=true&vCenter=true&lines=See+you+again">
+</p>
